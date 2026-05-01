@@ -50,8 +50,6 @@ I am a **High-Level Software Engineer** with a deep-rooted passion for complex l
 *   **Security by Design:** Integrating security protocols into the core of the development lifecycle.
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark)
-![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=black-ice)
 ## 📬 Get in Touch
 *   **phone number** [+967775939923]
