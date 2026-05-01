@@ -1,46 +1,62 @@
-# Hi there, I'm [Amr Al-Hammadi] 👋
+# 🚀 Amr AL-Hammadi | Senior Software Engineer & Cybersecurity Specialist
 
-### مبرمج شغوف ببناء حلول برمجية مبتكرة وتطوير الألعاب والأنظمة المدمجة.
-
----
-
-## 🚀 نبذة عني (About Me)
-- 🔭 أنا أعمل حالياً على **مشروع []**.
-
-- 💬 يمكنك سؤالي عن **البرمجة بلغة ++C، هياكل البيانات، أو تطوير الألعاب المنطقية**.
-- ⚡ حقيقة ممتعة: أحب تحويل القوانين الرياضية المعقدة إلى أكواد برمجية بسيطة.
-
----
-
-## 🛠 مهاراتي التقنية (Tech Stack)
-
-### 💻 لغات البرمجة
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### ⚙️ أدوات وتقنيات
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 إحصائيات GitHub (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USER_NAME]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USER_NAME]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Logic-High%20Performance-blue?style=for-the-badge&logo=probot" />
+  <img src="https://img.shields.io/badge/Security-Advanced-red?style=for-the-badge&logo=sharp" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Code-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-## 📬 تواصل معي (Connect with me)
-<p align="left">
-<a href="https://linkedin.com/in/[USER_NAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/[USER_NAME]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
+I am a **High-Level Software Engineer** with a deep-rooted passion for complex logic and architectural design. My expertise lies in bridging the gap between high-performance desktop applications, mobile ecosystems, and advanced cybersecurity tooling. I don't just write code; I engineer solutions that are scalable, secure, and logically sound.
 
 ---
 
-### 🏆 مساهماتي (Contributions)
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/[USER_NAME]/[USER_NAME]/output/github-contribution-grid-snake.svg)
+## 🛠 Technical Arsenal
+
+### 🛡️ Cybersecurity & Tooling
+*   **Offensive/Defensive Security:** Specialist in building custom security frameworks and automation tools.
+*   **Python for Security:** Expert in developing network scanners, exploit kits, and automated vulnerability assessment tools using `Python`.
+*   **Reverse Engineering:** Deep understanding of binary analysis and malware behavior.
+
+### 💻 Desktop & Mobile Development
+*   **C# & .NET:** Expert Desktop Developer focusing on high-performance enterprise applications, MVVM architecture, and complex UI/UX using WinForms/WPF.
+*   **Mobile Development:** Crafting seamless cross-platform and native mobile experiences with a focus on performance and security.
+*   **Logic-Driven Programming:** Advanced implementation of Data Structures and Algorithms to optimize system resources.
+
+### 🌐 Other Professional Skills
+*   **Database Design:** Expert in SQL (PostgreSQL, SQL Server) and NoSQL (MongoDB).
+*   **DevOps:** Automation of CI/CD pipelines and Docker containerization.
+*   **Network Programming:** Building robust socket-based communication systems.
+
+---
+
+## 🚀 Featured Skills & Languages
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C#, C++, SQL, JavaScript |
+| **Security** | Penetration Testing Tools, Cryptography, Socket Programming |
+| **Frameworks** | .NET (C#), Flutter/React Native, Django/Flask |
+| **Tools** | Git, Docker, Linux (Kali/Arch), Wireshark |
+
+---
+
+## 📊 Performance & Logic
+> "Programming is 10% writing code and 90% logic and architectural thinking."
+*   **Logical Prowess:** Specialist in solving complex computational problems.
+*   **Clean Code:** Strict adherence to SOLID principles and Design Patterns.
+*   **Security by Design:** Integrating security protocols into the core of the development lifecycle.
+
+---
+
+## 📬 Get in Touch
+*   **LinkedIn:** [Your Profile Link]
+*   **Email:** [Your Email Address]
+*   **Portfolio:** [Your Website Link]
+
+---
+<p align="center">
+  *Built with Logic, Powered by Code.*
+</p>
