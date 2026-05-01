@@ -52,9 +52,9 @@ I am a **High-Level Software Engineer** with a deep-rooted passion for complex l
 ---
 
 ## 📬 Get in Touch
-*   **LinkedIn:** [Your Profile Link]
-*   **Email:** [Your Email Address]
-*   **Portfolio:** [Your Website Link]
+*   **phone number** [+967775939923]
+*   **Email:** [rv7759@gmail.com]
+
 
 ---
 <p align="center">
