@@ -14,7 +14,10 @@ I am a **High-Level Software Engineer** with a deep-rooted passion for complex l
 ---
 
 ## 🛠 Technical Arsenal
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Amr Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Amr Languages" />
+</p>
 ### 🛡️ Cybersecurity & Tooling
 *   **Offensive/Defensive Security:** Specialist in building custom security frameworks and automation tools.
 *   **Python for Security:** Expert in developing network scanners, exploit kits, and automated vulnerability assessment tools using `Python`.
